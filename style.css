@@ -1,0 +1,64 @@
+/* -------x------- navbar ---------x------- */
+
+
+/* ----------------- Main Content----------- */
+
+
+/* --------------- Site title ---------------- */
+
+main .site-title {
+    background: url('./Background-image.png');
+    background-size: cover;
+    height: 110vh;
+    display: flex;
+    justify-content: center;
+}
+
+main .site-title .site-background {
+    padding-top: 10rem;
+    text-align: center;
+    color: var(--white);
+}
+
+main .site-title h1,
+h3 {
+    margin: .3rem;
+}
+
+main .site-title .btn {
+    margin: 1.8rem;
+    background: var(--sky);
+}
+
+main .site-title .btn:hover {
+    background: transparent;
+    border: 1px solid var(--white);
+    color: var(--white);
+}
+
+
+/* --------x------ Site title --------x------- */
+
+
+/* --------------- Blog Carousel ------------ */
+
+
+/* -------x------- Blog Carousel -----x------ */
+
+
+/* ---------x------- Footer ----------x---------- */
+
+
+/*              Viewport less then or equal to 1130px            */
+
+
+/*      x       Viewport less then or equal to 1130px    x     */
+
+
+/*              Viewport less then or equal to 750px            */
+
+
+/*        x      Viewport less then or equal to 750px       x     */
+
+
+/*        x      Viewport less then or equal to 520px       x     */
